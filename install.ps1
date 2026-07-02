@@ -4,7 +4,7 @@ $ErrorActionPreference = "Stop"
 # HCR CLI Installer
 # One-line install: irm https://pantheralabs.github.io/HCR/install.ps1 | iex
 
-$Repo = "PantheraLabs/HCR"
+$Repo = "PantheraLabs/HybridCognitiveRuntime"
 $InstallDir = "$env:LOCALAPPDATA\bin"
 $BinName = "hcr-windows-x64.exe"
 

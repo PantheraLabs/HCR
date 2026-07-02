@@ -4,7 +4,7 @@ set -e
 # HCR CLI Installer
 # One-line install: curl -fsSL https://pantheralabs.github.io/HCR/install.sh | bash
 
-REPO="PantheraLabs/HCR"
+REPO="PantheraLabs/HybridCognitiveRuntime"
 INSTALL_DIR="${INSTALL_DIR:-/usr/local/bin}"
 
 # Detect OS and architecture
